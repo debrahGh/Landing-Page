@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/html5up-miniport/images"
+		},
+		{
+			"path": "../../../Downloads/html5up-miniport/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Landing-Page"
+	}
+}
